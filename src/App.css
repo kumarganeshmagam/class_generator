@@ -1,0 +1,21 @@
+.myRow {
+  display: table-row;
+  text-align: right;
+  
+} 
+
+.head {
+  text-align: right;
+  margin-top: 40px;
+  margin-left: 40px;
+}
+
+label,textarea {
+  display: table-cell;
+  vertical-align: middle;
+  margin-bottom: 10px;
+}
+
+label {
+  padding-right: 50px;
+}
